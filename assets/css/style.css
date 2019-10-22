@@ -163,3 +163,81 @@
 
   
 
+  
+
+
+  @media (max-width: 1440px) {
+    p {
+      font-size: 14px;
+      color: black;
+      word-spacing: 5px;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    p {
+      font-size: 14px;
+      color: black;
+      word-spacing: 5px;
+    }
+  }
+
+
+  @media (max-width: 768px) {
+    p {
+      font-size: 16px;
+      color: darkgrey;
+      word-spacing: 10px;
+    }
+
+
+  }
+
+  @media (max-width: 425px) {
+    p {
+      font-size: 14px;
+      color: darkslategrey;
+      word-spacing: 5px;
+    }
+
+    #aboutme1 {
+      padding-bottom: 25px;
+    }
+
+    
+  }
+
+  @media (max-width: 375px) {
+    p {
+      font-size: 14px;
+      color: darkred;
+      word-spacing: 5px;
+    }
+
+    #aboutme1 {
+      padding-bottom: 25px;
+    }
+
+    
+    
+  }
+
+  @media (max-width: 320px) {
+    p {
+      font-size: 14px;
+      color: darkblue;
+      word-spacing: 5px;
+    }
+
+    #aboutme1 {
+      padding-bottom: 25px;
+    }
+
+  }
+
+  
+
+  
+
+  
+
